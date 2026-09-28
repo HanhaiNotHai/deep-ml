@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 4 problems · 1 labs · 0 math
+**6** solved · 5 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Build a Linear Regression Model with nn.Module](https://www.deep-ml.com/problems/885) | easy | 2026-09-28 | [solution](problems/0885-build-a-linear-regression-model-with-nn-module) |
 | [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-09-28 | [solution](problems/1234-one-sgd-update-step) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-09-28 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [One Adam Update Step](https://www.deep-ml.com/problems/1236) | medium | 2026-09-28 | [solution](problems/1236-one-adam-update-step) |
