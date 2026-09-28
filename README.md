@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 7 problems · 1 labs · 0 math
+**9** solved · 8 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Run One Training Step: Forward, Loss, Backward, Optimizer](https://www.deep-ml.com/problems/886) | easy | 2026-09-28 | [solution](problems/0886-run-one-training-step-forward-loss-backward-optimizer) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-09-28 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [One Adam Update Step](https://www.deep-ml.com/problems/1236) | medium | 2026-09-28 | [solution](problems/1236-one-adam-update-step) |
+| [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-09-28 | [solution](problems/1219-one-training-step) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-09-28 | [solution](problems/1235-sgd-with-momentum-step) |
 
 ## Labs
