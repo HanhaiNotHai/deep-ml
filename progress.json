@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:56:53.723Z",
+  "generated_at": "2026-09-28T08:02:00.860Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -101,9 +101,9 @@
       "url": "https://www.deep-ml.com/problems/886",
       "path": "problems/0886-run-one-training-step-forward-loss-backward-optimizer",
       "first_solved_at": "2026-09-28T07:56:52.384Z",
-      "last_pushed_at": "2026-09-28T07:56:52.384Z",
+      "last_pushed_at": "2026-09-28T08:01:59.724Z",
       "language": "python",
-      "lines": 17
+      "lines": 16
     }
   }
 }
