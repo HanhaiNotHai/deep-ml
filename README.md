@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**23** solved · 21 problems · 2 labs · 0 math
+**29** solved · 27 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,9 +16,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build a Dataset and Use It with a DataLoader](https://www.deep-ml.com/problems/899) | easy | 2026-09-28 | [solution](problems/0899-build-a-dataset-and-use-it-with-a-dataloader) |
 | [Build a Linear Regression Model with nn.Module](https://www.deep-ml.com/problems/885) | easy | 2026-09-28 | [solution](problems/0885-build-a-linear-regression-model-with-nn-module) |
 | [Build an MLP with nn.Sequential](https://www.deep-ml.com/problems/887) | easy | 2026-09-28 | [solution](problems/0887-build-an-mlp-with-nn-sequential) |
+| [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2024-07-29 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2024-07-25 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2024-07-25 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Count Parameters of a Sequential Model](https://www.deep-ml.com/problems/1218) | easy | 2026-09-28 | [solution](problems/1218-count-parameters-of-a-sequential-model) |
+| [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2024-07-29 | [solution](problems/0015-linear-regression-using-gradient-descent) |
+| [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2024-07-29 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2024-07-25 | [solution](problems/0001-matrix-vector-dot-product) |
 | [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-09-28 | [solution](problems/1234-one-sgd-update-step) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2024-07-25 | [solution](problems/0003-reshape-matrix) |
@@ -33,6 +36,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [One Adam Update Step](https://www.deep-ml.com/problems/1236) | medium | 2026-09-28 | [solution](problems/1236-one-adam-update-step) |
 | [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-09-28 | [solution](problems/1219-one-training-step) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-09-28 | [solution](problems/1235-sgd-with-momentum-step) |
+| [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2024-07-29 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2024-07-29 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
+| [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2024-07-29 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 
 ## Labs
 
