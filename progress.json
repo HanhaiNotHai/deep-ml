@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T08:37:46.776Z",
+  "generated_at": "2026-09-29T08:37:48.451Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -637,6 +637,45 @@
       "last_pushed_at": "2026-06-25T03:41:51.245Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:363": {
+      "kind": "problem",
+      "id": "363",
+      "title": "Implement Mini-Batch K-Means",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/363",
+      "path": "problems/0363-implement-mini-batch-k-means",
+      "first_solved_at": "2026-06-26T03:52:31.862Z",
+      "last_pushed_at": "2026-06-26T03:52:31.862Z",
+      "language": "python",
+      "lines": 41
+    },
+    "problem:827": {
+      "kind": "problem",
+      "id": "827",
+      "title": "Elbow Method for K-Means",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/827",
+      "path": "problems/0827-elbow-method-for-k-means",
+      "first_solved_at": "2026-06-26T06:25:12.265Z",
+      "last_pushed_at": "2026-06-26T06:25:12.265Z",
+      "language": "python",
+      "lines": 44
+    },
+    "problem:832": {
+      "kind": "problem",
+      "id": "832",
+      "title": "Image Segmentation via K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/832",
+      "path": "problems/0832-image-segmentation-via-k-means-clustering",
+      "first_solved_at": "2026-06-26T07:14:03.808Z",
+      "last_pushed_at": "2026-06-26T07:14:03.808Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
