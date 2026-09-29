@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T08:37:44.988Z",
+  "generated_at": "2026-09-29T08:37:46.776Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -624,6 +624,19 @@
       "last_pushed_at": "2025-10-23T07:47:29.342Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:362": {
+      "kind": "problem",
+      "id": "362",
+      "title": "Implement K-Means++ Initialization",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/362",
+      "path": "problems/0362-implement-k-means-initialization",
+      "first_solved_at": "2026-06-25T03:41:51.245Z",
+      "last_pushed_at": "2026-06-25T03:41:51.245Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
