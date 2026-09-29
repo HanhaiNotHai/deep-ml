@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**72** solved · 69 problems · 3 labs · 0 math
+**73** solved · 69 problems · 3 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -89,6 +89,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-09-29 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
 | [Design Your Own Optimizer (NumPy)](https://www.deep-ml.com/labs/8) | medium | 2026-09-28 | [solution](labs/0008-design-your-own-optimizer-numpy) |
 | [PyTorch: Implement Your Own Gradient Descent Training Step](https://www.deep-ml.com/labs/12) | medium | 2026-09-28 | [solution](labs/0012-pytorch-implement-your-own-gradient-descent-training-step) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-09-29 | [solution](math/0031-regularization-and-generalization) |
 
 ---
 
