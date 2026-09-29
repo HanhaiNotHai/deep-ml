@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T08:37:40.134Z",
+  "generated_at": "2026-09-29T08:37:42.366Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -531,6 +531,71 @@
       "path": "problems/0029-random-shuffle-of-dataset",
       "first_solved_at": "2024-08-01T09:01:29.566Z",
       "last_pushed_at": "2024-08-01T09:01:29.566Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:30": {
+      "kind": "problem",
+      "id": "30",
+      "title": "Batch Iterator for Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/30",
+      "path": "problems/0030-batch-iterator-for-dataset",
+      "first_solved_at": "2024-08-02T11:22:18.214Z",
+      "last_pushed_at": "2024-08-02T11:22:18.214Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:31": {
+      "kind": "problem",
+      "id": "31",
+      "title": "Divide Dataset Based on Feature Threshold",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/31",
+      "path": "problems/0031-divide-dataset-based-on-feature-threshold",
+      "first_solved_at": "2024-08-02T11:31:31.598Z",
+      "last_pushed_at": "2024-08-02T11:31:31.598Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2024-08-02T11:50:12.521Z",
+      "last_pushed_at": "2024-08-02T11:50:12.521Z",
+      "language": "python",
+      "lines": 2
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2024-08-02T11:52:50.346Z",
+      "last_pushed_at": "2024-08-02T11:52:50.346Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2024-08-02T11:55:06.050Z",
+      "last_pushed_at": "2024-08-02T11:55:06.050Z",
       "language": "python",
       "lines": 1
     }
