@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T08:37:36.114Z",
+  "generated_at": "2026-09-29T08:37:38.131Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -375,6 +375,58 @@
       "path": "problems/0015-linear-regression-using-gradient-descent",
       "first_solved_at": "2024-07-29T08:02:00.834Z",
       "last_pushed_at": "2024-07-29T08:02:00.834Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2024-07-31T07:13:30.178Z",
+      "last_pushed_at": "2024-07-31T07:13:30.178Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:17": {
+      "kind": "problem",
+      "id": "17",
+      "title": "K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/17",
+      "path": "problems/0017-k-means-clustering",
+      "first_solved_at": "2024-07-31T12:59:52.716Z",
+      "last_pushed_at": "2024-07-31T12:59:52.716Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:18": {
+      "kind": "problem",
+      "id": "18",
+      "title": "Implement K-Fold Cross-Validation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/18",
+      "path": "problems/0018-implement-k-fold-cross-validation",
+      "first_solved_at": "2024-07-31T13:18:08.166Z",
+      "last_pushed_at": "2024-07-31T13:18:08.166Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:19": {
+      "kind": "problem",
+      "id": "19",
+      "title": "Principal Component Analysis (PCA) Implementation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/19",
+      "path": "problems/0019-principal-component-analysis-pca-implementation",
+      "first_solved_at": "2024-07-31T13:28:48.423Z",
+      "last_pushed_at": "2024-07-31T13:28:48.423Z",
       "language": "python",
       "lines": 1
     }
