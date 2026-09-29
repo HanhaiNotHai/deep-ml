@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T09:10:30.608Z",
+  "generated_at": "2026-09-29T09:14:56.561Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -969,6 +969,19 @@
       "path": "math/0037-taylor-expansions-and-local-quadratic-models",
       "first_solved_at": "2026-09-29T08:45:01.605Z",
       "last_pushed_at": "2026-09-29T08:45:01.605Z"
+    },
+    "problem:134": {
+      "kind": "problem",
+      "id": "134",
+      "title": "Compute Multi-class Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/134",
+      "path": "problems/0134-compute-multi-class-cross-entropy-loss",
+      "first_solved_at": "2026-09-29T09:14:51.958Z",
+      "last_pushed_at": "2026-09-29T09:14:51.958Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
