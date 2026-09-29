@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**33** solved · 31 problems · 2 labs · 0 math
+**41** solved · 39 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,14 +25,20 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2024-07-29 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2024-07-25 | [solution](problems/0001-matrix-vector-dot-product) |
 | [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-09-28 | [solution](problems/1234-one-sgd-update-step) |
+| [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2024-08-01 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2024-07-25 | [solution](problems/0003-reshape-matrix) |
 | [Run One Training Step: Forward, Loss, Backward, Optimizer](https://www.deep-ml.com/problems/886) | easy | 2026-09-28 | [solution](problems/0886-run-one-training-step-forward-loss-backward-optimizer) |
 | [Save and Load Model Weights with state_dict](https://www.deep-ml.com/problems/888) | easy | 2026-09-28 | [solution](problems/0888-save-and-load-model-weights-with-state-dict) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2024-07-26 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
+| [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2024-08-01 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2024-08-01 | [solution](problems/0024-single-neuron) |
+| [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2024-08-01 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2024-08-01 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2024-07-25 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2024-07-26 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-09-28 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2024-07-31 | [solution](problems/0018-implement-k-fold-cross-validation) |
+| [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2024-08-01 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2024-07-31 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2024-07-26 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2024-07-26 | [solution](problems/0007-matrix-transformation) |
@@ -40,7 +46,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-09-28 | [solution](problems/1219-one-training-step) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2024-07-31 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-09-28 | [solution](problems/1235-sgd-with-momentum-step) |
+| [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2024-08-01 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2024-07-29 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2024-08-01 | [solution](problems/0020-decision-tree-learning) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2024-07-29 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2024-07-29 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 
