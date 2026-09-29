@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T08:37:31.343Z",
+  "generated_at": "2026-09-29T08:37:33.826Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -245,6 +245,58 @@
       "path": "problems/0004-calculate-mean-by-row-or-column",
       "first_solved_at": "2024-07-25T06:53:30.020Z",
       "last_pushed_at": "2024-07-25T06:53:30.020Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2024-07-26T13:20:22.434Z",
+      "last_pushed_at": "2024-07-26T13:20:22.434Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2024-07-26T13:26:16.426Z",
+      "last_pushed_at": "2024-07-26T13:26:16.426Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2024-07-26T13:34:18.910Z",
+      "last_pushed_at": "2024-07-26T13:34:18.910Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2024-07-26T13:48:15.713Z",
+      "last_pushed_at": "2024-07-26T13:48:15.713Z",
       "language": "python",
       "lines": 1
     }
