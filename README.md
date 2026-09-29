@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**46** solved · 44 problems · 2 labs · 0 math
+**48** solved · 46 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,10 +20,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2024-07-29 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2024-08-02 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2024-07-25 | [solution](problems/0010-calculate-covariance-matrix) |
+| [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2025-10-23 | [solution](problems/0070-calculate-image-brightness) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2024-07-25 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2024-08-02 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Count Parameters of a Sequential Model](https://www.deep-ml.com/problems/1218) | easy | 2026-09-28 | [solution](problems/1218-count-parameters-of-a-sequential-model) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2024-07-31 | [solution](problems/0016-feature-scaling-implementation) |
+| [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2025-10-23 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2024-07-29 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2024-07-29 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2024-07-25 | [solution](problems/0001-matrix-vector-dot-product) |
