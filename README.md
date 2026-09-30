@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**80** solved · 74 problems · 3 labs · 3 math
+**81** solved · 75 problems · 3 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -69,6 +69,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-07-01 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Mini-Batch K-Means](https://www.deep-ml.com/problems/363) | medium | 2026-06-26 | [solution](problems/0363-implement-mini-batch-k-means) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-07-01 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
+| [Implement RMSProp Optimizer](https://www.deep-ml.com/problems/200) | medium | 2026-09-30 | [solution](problems/0200-implement-rmsprop-optimizer) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-07-01 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-07-01 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2024-08-01 | [solution](problems/0026-implementing-basic-autograd-operations) |
