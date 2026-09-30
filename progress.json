@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T09:05:51.449Z",
+  "generated_at": "2026-09-30T09:37:04.571Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -1086,6 +1086,19 @@
       "last_pushed_at": "2026-09-30T09:05:49.217Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:143": {
+      "kind": "problem",
+      "id": "143",
+      "title": "Instance Normalization (IN) Implementation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/143",
+      "path": "problems/0143-instance-normalization-in-implementation",
+      "first_solved_at": "2026-09-30T09:37:00.420Z",
+      "last_pushed_at": "2026-09-30T09:37:00.420Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
