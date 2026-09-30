@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T09:39:44.052Z",
+  "generated_at": "2026-09-30T09:42:30.329Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -1123,6 +1123,19 @@
       "path": "problems/0908-implement-layernorm-from-scratch",
       "first_solved_at": "2026-09-30T09:39:42.428Z",
       "last_pushed_at": "2026-09-30T09:39:42.428Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:901": {
+      "kind": "problem",
+      "id": "901",
+      "title": "Implement Dropout from Scratch",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/901",
+      "path": "problems/0901-implement-dropout-from-scratch",
+      "first_solved_at": "2026-09-30T09:42:28.779Z",
+      "last_pushed_at": "2026-09-30T09:42:28.779Z",
       "language": "python",
       "lines": 10
     }
