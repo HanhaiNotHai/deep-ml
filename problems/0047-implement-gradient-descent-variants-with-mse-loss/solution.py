@@ -1,9 +1,50 @@
-import numpy as np
+import torch
+from torch import Tensor
 
 
-def gradient_descent(X, y, weights, learning_rate, n_epochs, batch_size=1, method='batch'):
+def gradient(X: Tensor, y: Tensor, w: Tensor):
+    torch.nn.functional.mse_loss(X @ w, y).backward()
+    return w.grad
+
+
+def gd(w: Tensor, lr: float, g: Tensor):
+    with torch.no_grad():
+        return (w - lr * g).requires_grad_()
+
+
+def bgd(X: Tensor, y: Tensor, w: Tensor, lr: float, *args):
+    return gd(w, lr, gradient(X, y, w))
+
+
+def sgd(X: Tensor, y: Tensor, w: Tensor, lr: float, *args):
+    for xx, yy in zip(X, y):
+        w = gd(w, lr, gradient(xx[None], yy[None], w))
+    return w
+
+
+def mbgd(X: Tensor, y: Tensor, w: Tensor, lr: float, bs: int, *args):
+    for i in range(0, X.shape[0], bs):
+        xx = X[i : i + bs]
+        yy = y[i : i + bs]
+        w = gd(w, lr, gradient(xx[None], yy[None], w))
+    return w
+
+
+METHOD2GD = {'batch': bgd, 'stochastic': sgd, 'mini_batch': mbgd}
+
+
+def gradient_descent(
+    X: Tensor,
+    y: Tensor,
+    weights: Tensor,
+    learning_rate: float,
+    n_epochs: int,
+    batch_size: int = 1,
+    method: str = 'batch',
+) -> Tensor:
     """
-    Perform gradient descent optimization.
+    Implements three variants of gradient descent: Batch, Stochastic, and Mini-Batch.
+    Uses Mean Squared Error (MSE) as the loss function.
 
     Args:
         X: Feature matrix of shape (m, n)
@@ -15,25 +56,10 @@ def gradient_descent(X, y, weights, learning_rate, n_epochs, batch_size=1, metho
         method: Type of gradient descent ('batch', 'stochastic', or 'mini_batch')
 
     Returns:
-        Optimized weights
+        Optimized weights as a tensor
     """
-    w = weights.copy()
 
-    if method == 'batch':
-        for _ in range(n_epochs):
-            w -= learning_rate * 2 * ((X @ w - y)[:, None] * X).mean(axis=0)
-        return w
-
-    if method == 'stochastic':
-        for _ in range(n_epochs):
-            for xx, yy in zip(X, y):
-                w -= learning_rate * 2 * (xx @ w - yy) * xx
-        return w
-
-    if method == 'mini_batch':
-        for _ in range(n_epochs):
-            for i in range(0, X.shape[0], batch_size):
-                xx = X[i : i + batch_size]
-                yy = y[i : i + batch_size]
-                w -= learning_rate * 2 * ((xx @ w - yy)[:, None] * xx).mean(axis=0)
-        return w
+    gd_fn = METHOD2GD[method]
+    for _ in range(n_epochs):
+        weights = gd_fn(X, y, weights.requires_grad_(), learning_rate, batch_size)
+    return weights
