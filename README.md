@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**85** solved · 79 problems · 3 labs · 3 math
+**86** solved · 80 problems · 3 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -69,6 +69,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2026-09-30 | [solution](problems/0126-implement-group-normalization) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2024-07-31 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement K-Means++ Initialization](https://www.deep-ml.com/problems/362) | medium | 2026-06-25 | [solution](problems/0362-implement-k-means-initialization) |
+| [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-09-30 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-07-01 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Mini-Batch K-Means](https://www.deep-ml.com/problems/363) | medium | 2026-06-26 | [solution](problems/0363-implement-mini-batch-k-means) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-07-01 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
