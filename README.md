@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**86** solved · 80 problems · 3 labs · 3 math
+**87** solved · 81 problems · 3 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2024-07-31 | [solution](problems/0016-feature-scaling-implementation) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2025-10-23 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-07-01 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
+| [Implement LayerNorm from Scratch](https://www.deep-ml.com/problems/908) | easy | 2026-09-30 | [solution](problems/0908-implement-layernorm-from-scratch) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-07-01 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-07-01 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-07-01 | [solution](problems/0042-implement-relu-activation-function) |
