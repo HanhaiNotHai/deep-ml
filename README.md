@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**94** solved · 88 problems · 3 labs · 3 math
+**95** solved · 89 problems · 3 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -68,6 +68,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Elbow Method for K-Means](https://www.deep-ml.com/problems/827) | medium | 2026-06-26 | [solution](problems/0827-elbow-method-for-k-means) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-07-01 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-07-01 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
+| [Gradient Clipping by Norm](https://www.deep-ml.com/problems/909) | medium | 2026-10-09 | [solution](problems/0909-gradient-clipping-by-norm) |
 | [Image Segmentation via K-Means Clustering](https://www.deep-ml.com/problems/832) | medium | 2026-06-26 | [solution](problems/0832-image-segmentation-via-k-means-clustering) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-07-01 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-09-28 | [solution](problems/0169-implement-adamw-optimizer-step) |
