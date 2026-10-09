@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T04:00:48.414Z",
+  "generated_at": "2026-10-09T06:29:11.762Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -1203,6 +1203,19 @@
       "last_pushed_at": "2026-10-09T04:00:46.846Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:913": {
+      "kind": "problem",
+      "id": "913",
+      "title": "Early Stopping with Patience",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/913",
+      "path": "problems/0913-early-stopping-with-patience",
+      "first_solved_at": "2026-10-09T06:29:10.765Z",
+      "last_pushed_at": "2026-10-09T06:29:10.765Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
