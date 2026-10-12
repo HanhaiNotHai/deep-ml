@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**110** solved · 100 problems · 6 labs · 4 math
+**111** solved · 101 problems · 6 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -71,6 +71,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dropout in Train vs Eval Mode](https://www.deep-ml.com/problems/1230) | medium | 2026-09-30 | [solution](problems/1230-dropout-in-train-vs-eval-mode) |
 | [Dropout Layer](https://www.deep-ml.com/problems/151) | medium | 2026-09-30 | [solution](problems/0151-dropout-layer) |
 | [Elbow Method for K-Means](https://www.deep-ml.com/problems/827) | medium | 2026-06-26 | [solution](problems/0827-elbow-method-for-k-means) |
+| [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-10-12 | [solution](problems/0205-entropy-cross-entropy) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-07-01 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-07-01 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Gradient Accumulation Over Micro-Batches](https://www.deep-ml.com/problems/912) | medium | 2026-10-09 | [solution](problems/0912-gradient-accumulation-over-micro-batches) |
