@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T02:32:46.341Z",
+  "generated_at": "2026-10-12T02:56:52.505Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -1346,6 +1346,19 @@
       "last_pushed_at": "2026-10-12T02:32:45.902Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:917": {
+      "kind": "problem",
+      "id": "917",
+      "title": "Implement a ResNet Basic Block",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/917",
+      "path": "problems/0917-implement-a-resnet-basic-block",
+      "first_solved_at": "2026-10-12T02:56:52.175Z",
+      "last_pushed_at": "2026-10-12T02:56:52.175Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
