@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T09:37:37.970Z",
+  "generated_at": "2026-10-12T09:40:15.532Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -1446,6 +1446,19 @@
       "path": "problems/0320-calculate-perplexity-for-language-models",
       "first_solved_at": "2026-10-12T09:37:36.768Z",
       "last_pushed_at": "2026-10-12T09:37:36.768Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:940": {
+      "kind": "problem",
+      "id": "940",
+      "title": "Regex-Based Text Tokenizer",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/940",
+      "path": "problems/0940-regex-based-text-tokenizer",
+      "first_solved_at": "2026-10-12T09:40:14.465Z",
+      "last_pushed_at": "2026-10-12T09:40:14.465Z",
       "language": "python",
       "lines": 17
     }
