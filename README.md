@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**107** solved · 99 problems · 5 labs · 3 math
+**108** solved · 100 problems · 5 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -76,6 +76,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Accumulation Over Micro-Batches](https://www.deep-ml.com/problems/912) | medium | 2026-10-09 | [solution](problems/0912-gradient-accumulation-over-micro-batches) |
 | [Gradient Clipping by Norm](https://www.deep-ml.com/problems/909) | medium | 2026-10-09 | [solution](problems/0909-gradient-clipping-by-norm) |
 | [Image Segmentation via K-Means Clustering](https://www.deep-ml.com/problems/832) | medium | 2026-06-26 | [solution](problems/0832-image-segmentation-via-k-means-clustering) |
+| [Implement a Custom `autograd.Function`](https://www.deep-ml.com/problems/903) | medium | 2026-10-12 | [solution](problems/0903-implement-a-custom-autograd-function) |
 | [Implement a ResNet Basic Block](https://www.deep-ml.com/problems/917) | medium | 2026-10-12 | [solution](problems/0917-implement-a-resnet-basic-block) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-07-01 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-09-28 | [solution](problems/0169-implement-adamw-optimizer-step) |
