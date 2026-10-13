@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**114** solved · 104 problems · 6 labs · 4 math
+**115** solved · 105 problems · 6 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -58,6 +58,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Save and Load Model Weights with state_dict](https://www.deep-ml.com/problems/888) | easy | 2026-09-28 | [solution](problems/0888-save-and-load-model-weights-with-state-dict) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2024-07-26 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2024-08-01 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Simple Word Tokenizer Encode and Decode](https://www.deep-ml.com/problems/942) | easy | 2026-10-13 | [solution](problems/0942-simple-word-tokenizer-encode-and-decode) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2024-08-01 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2024-08-01 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [StepLR Learning Rate Scheduler](https://www.deep-ml.com/problems/153) | easy | 2026-10-09 | [solution](problems/0153-steplr-learning-rate-scheduler) |
