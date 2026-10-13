@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T02:10:36.015Z",
+  "generated_at": "2026-10-13T02:18:15.303Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -1487,6 +1487,19 @@
       "last_pushed_at": "2026-10-13T02:10:34.530Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:943": {
+      "kind": "problem",
+      "id": "943",
+      "title": "Tokenizer with Unknown and End-of-Text Tokens",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/943",
+      "path": "problems/0943-tokenizer-with-unknown-and-end-of-text-tokens",
+      "first_solved_at": "2026-10-13T02:18:14.479Z",
+      "last_pushed_at": "2026-10-13T02:18:14.479Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
