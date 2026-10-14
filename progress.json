@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:20:25.798Z",
+  "generated_at": "2026-10-14T08:37:54.870Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -1524,6 +1524,19 @@
       "path": "problems/0948-find-most-frequent-token-pair-for-bpe",
       "first_solved_at": "2026-10-14T08:18:59.192Z",
       "last_pushed_at": "2026-10-14T08:20:24.575Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:949": {
+      "kind": "problem",
+      "id": "949",
+      "title": "Replace Token Pair in BPE Sequences",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/949",
+      "path": "problems/0949-replace-token-pair-in-bpe-sequences",
+      "first_solved_at": "2026-10-14T08:37:53.839Z",
+      "last_pushed_at": "2026-10-14T08:37:53.839Z",
       "language": "python",
       "lines": 16
     }
