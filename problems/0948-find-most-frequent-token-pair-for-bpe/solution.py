@@ -12,4 +12,4 @@ def most_frequent_pair(sequences: list[list[int]]):
     """
 
     cnt = Counter(chain(*map(pairwise, sequences)))
-    return max(cnt, key=cnt.get) if cnt else None
+    return cnt.most_common(1)[0][0] if cnt else None
