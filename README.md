@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**129** solved · 118 problems · 7 labs · 4 math
+**130** solved · 119 problems · 7 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -58,6 +58,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2024-07-25 | [solution](problems/0001-matrix-vector-dot-product) |
 | [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-09-28 | [solution](problems/1234-one-sgd-update-step) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2024-08-02 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
+| [Pad and Truncate Tokenized Sequences](https://www.deep-ml.com/problems/1059) | easy | 2026-10-15 | [solution](problems/1059-pad-and-truncate-tokenized-sequences) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2024-08-01 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Regex-Based Text Tokenizer](https://www.deep-ml.com/problems/940) | easy | 2026-10-12 | [solution](problems/0940-regex-based-text-tokenizer) |
 | [Replace Token Pair in BPE Sequences](https://www.deep-ml.com/problems/949) | easy | 2026-10-14 | [solution](problems/0949-replace-token-pair-in-bpe-sequences) |
