@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**125** solved · 114 problems · 7 labs · 4 math
+**126** solved · 115 problems · 7 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -35,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-09-29 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [Early Stopping Based on Validation Loss Plateau](https://www.deep-ml.com/problems/199) | easy | 2026-10-09 | [solution](problems/0199-early-stopping-based-on-validation-loss-plateau) |
 | [Early Stopping with Patience](https://www.deep-ml.com/problems/913) | easy | 2026-10-09 | [solution](problems/0913-early-stopping-with-patience) |
+| [Embedding Layer as One-Hot Matrix Multiplication](https://www.deep-ml.com/problems/947) | easy | 2026-10-15 | [solution](problems/0947-embedding-layer-as-one-hot-matrix-multiplication) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2024-07-31 | [solution](problems/0016-feature-scaling-implementation) |
 | [Find Most Frequent Token Pair for BPE](https://www.deep-ml.com/problems/948) | easy | 2026-10-14 | [solution](problems/0948-find-most-frequent-token-pair-for-bpe) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2025-10-23 | [solution](problems/0082-grayscale-image-contrast-calculator) |
