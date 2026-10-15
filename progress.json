@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T09:56:07.008Z",
+  "generated_at": "2026-10-15T09:58:11.773Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -1796,7 +1796,7 @@
       "url": "https://www.deep-ml.com/problems/956",
       "path": "problems/0956-apply-dropout-to-attention-weights",
       "first_solved_at": "2026-10-15T09:56:05.707Z",
-      "last_pushed_at": "2026-10-15T09:56:05.707Z",
+      "last_pushed_at": "2026-10-15T09:58:10.287Z",
       "language": "python",
       "lines": 13
     }
