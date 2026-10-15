@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**133** solved · 122 problems · 7 labs · 4 math
+**134** solved · 123 problems · 7 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -131,6 +131,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-07-01 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2024-08-01 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2024-07-29 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [Train Bigram Language Model as a Neural Network](https://www.deep-ml.com/problems/988) | medium | 2026-10-15 | [solution](problems/0988-train-bigram-language-model-as-a-neural-network) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2024-08-01 | [solution](problems/0020-decision-tree-learning) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2024-07-29 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2024-07-29 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
