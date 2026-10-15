@@ -1,16 +1,13 @@
-import numpy as np
-from numpy.typing import NDArray
+import torch
 
-
-def compute_qkv(X, W_q, W_k, W_v):
+def compute_qkv(X: torch.Tensor, W_q: torch.Tensor, W_k: torch.Tensor, W_v: torch.Tensor):
     """Compute Query, Key, Value matrices from input X and weight matrices."""
-    Q = np.dot(X, W_q)
-    K = np.dot(X, W_k)
-    V = np.dot(X, W_v)
+    Q = torch.matmul(X, W_q)
+    K = torch.matmul(X, W_k)
+    V = torch.matmul(X, W_v)
     return Q, K, V
 
-
-def self_attention(Q: NDArray, K: NDArray, V: NDArray):
+def self_attention(Q: torch.Tensor, K: torch.Tensor, V: torch.Tensor) -> torch.Tensor:
     """
     Compute scaled dot-product self-attention.
 
@@ -22,7 +19,5 @@ def self_attention(Q: NDArray, K: NDArray, V: NDArray):
     Returns:
         Attention output of shape (seq_len, d_v)
     """
-    S: NDArray = Q @ K.T / np.sqrt(Q.shape[1])
-    expS = np.exp(S)
-    A: NDArray = expS / expS.sum(axis=1, keepdims=True)
-    return A @ V
+    # Your code here
+    pass
