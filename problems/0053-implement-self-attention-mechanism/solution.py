@@ -1,4 +1,7 @@
+import math
+
 import torch
+
 
 def compute_qkv(X: torch.Tensor, W_q: torch.Tensor, W_k: torch.Tensor, W_v: torch.Tensor):
     """Compute Query, Key, Value matrices from input X and weight matrices."""
@@ -6,6 +9,7 @@ def compute_qkv(X: torch.Tensor, W_q: torch.Tensor, W_k: torch.Tensor, W_v: torc
     K = torch.matmul(X, W_k)
     V = torch.matmul(X, W_v)
     return Q, K, V
+
 
 def self_attention(Q: torch.Tensor, K: torch.Tensor, V: torch.Tensor) -> torch.Tensor:
     """
@@ -19,5 +23,5 @@ def self_attention(Q: torch.Tensor, K: torch.Tensor, V: torch.Tensor) -> torch.T
     Returns:
         Attention output of shape (seq_len, d_v)
     """
-    # Your code here
-    pass
+
+    return torch.softmax(Q @ K.transpose(-1, -2) / math.sqrt(K.shape[-1]), dim=-1) @ V
