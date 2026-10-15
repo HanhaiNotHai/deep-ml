@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T06:54:21.688Z",
+  "generated_at": "2026-10-15T07:06:47.685Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -1734,6 +1734,19 @@
       "last_pushed_at": "2026-10-15T06:54:19.754Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:989": {
+      "kind": "problem",
+      "id": "989",
+      "title": "MLP Character-Level Language Model Forward Pass",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/989",
+      "path": "problems/0989-mlp-character-level-language-model-forward-pass",
+      "first_solved_at": "2026-10-15T07:06:46.624Z",
+      "last_pushed_at": "2026-10-15T07:06:46.624Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
