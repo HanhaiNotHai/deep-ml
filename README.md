@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**145** solved · 133 problems · 8 labs · 4 math
+**146** solved · 134 problems · 8 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -129,6 +129,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2024-07-26 | [solution](problems/0007-matrix-transformation) |
 | [MLP Character-Level Language Model Forward Pass](https://www.deep-ml.com/problems/989) | medium | 2026-10-15 | [solution](problems/0989-mlp-character-level-language-model-forward-pass) |
 | [Multi-Head Attention via Head Stacking](https://www.deep-ml.com/problems/958) | medium | 2026-10-16 | [solution](problems/0958-multi-head-attention-via-head-stacking) |
+| [Multi-Head Attention with Combined QKV Weight Matrix](https://www.deep-ml.com/problems/959) | medium | 2026-10-16 | [solution](problems/0959-multi-head-attention-with-combined-qkv-weight-matrix) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-09-30 | [solution](problems/0313-numerical-gradient-checking) |
 | [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-10-09 | [solution](problems/0914-numerically-stable-cross-entropy) |
 | [One Adam Update Step](https://www.deep-ml.com/problems/1236) | medium | 2026-09-28 | [solution](problems/1236-one-adam-update-step) |
