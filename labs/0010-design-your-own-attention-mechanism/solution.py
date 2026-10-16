@@ -25,4 +25,18 @@ def attention(Q: NDArray, K: NDArray, V: NDArray):
     3. Use weights to compute weighted sum of values
     """
 
-    return softmax(Q @ K.swapaxes(-1, -2) / np.sqrt(K.shape[-1])) @ V
+    h = 8
+
+    q, k, v = map(lambda x: x.reshape(*x.shape[:-1], h, -1), (Q, K, V))
+    q, k, v = map(lambda x: x.swapaxes(-2, -3), (q, k, v))
+
+    s = q @ k.swapaxes(-1, -2)
+    mask = np.tril(np.ones_like(s))
+    s = np.where(mask, s, -np.inf)
+    a = softmax(s)
+    o = a @ v
+
+    o = o.swapaxes(-2, -3)
+    o = o.reshape(*o.shape[:-2], -1)
+
+    return o
