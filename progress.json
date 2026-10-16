@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T04:03:46.631Z",
+  "generated_at": "2026-10-16T04:04:22.805Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -1874,9 +1874,9 @@
       "url": "https://www.deep-ml.com/problems/958",
       "path": "problems/0958-multi-head-attention-via-head-stacking",
       "first_solved_at": "2026-10-16T04:03:45.464Z",
-      "last_pushed_at": "2026-10-16T04:03:45.464Z",
+      "last_pushed_at": "2026-10-16T04:04:22.056Z",
       "language": "python",
-      "lines": 41
+      "lines": 39
     }
   }
 }

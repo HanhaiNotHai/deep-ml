@@ -35,6 +35,4 @@ def multi_head_attention_stack(
         o = a @ v
 
         os.append(o)
-    o = np.stack(os, axis=-2)
-    o = o.reshape(*o.shape[:-2], -1)
-    return o
+    return np.concatenate(os, axis=-1)
