@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**160** solved · 145 problems · 8 labs · 7 math
+**161** solved · 145 problems · 8 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -180,6 +180,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-10-12 | [solution](math/0024-information-theory-entropy) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-09-29 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-09-29 | [solution](math/0031-regularization-and-generalization) |
+| [Roofline: Time is the Max of Bytes/BW and FLOPs/Peak](https://www.deep-ml.com/math-problems/64) | medium | 2026-10-19 | [solution](math/0064-roofline-time-is-the-max-of-bytes-bw-and-flops-peak) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-09-29 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-10-16 | [solution](math/0025-kl-divergence) |
 

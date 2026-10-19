@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T08:08:17.165Z",
+  "generated_at": "2026-10-19T08:37:33.493Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2066,6 +2066,17 @@
       "path": "math/0063-arithmetic-intensity-of-matmul-vs-decode-attention",
       "first_solved_at": "2026-10-19T08:08:11.115Z",
       "last_pushed_at": "2026-10-19T08:08:11.115Z"
+    },
+    "math:64": {
+      "kind": "math",
+      "id": "64",
+      "title": "Roofline: Time is the Max of Bytes/BW and FLOPs/Peak",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/64",
+      "path": "math/0064-roofline-time-is-the-max-of-bytes-bw-and-flops-peak",
+      "first_solved_at": "2026-10-19T08:37:32.463Z",
+      "last_pushed_at": "2026-10-19T08:37:32.463Z"
     }
   }
 }
