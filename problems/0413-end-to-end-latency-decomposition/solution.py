@@ -16,18 +16,18 @@ def decompose_latency(stage_latencies: dict[str, NDArray], percentiles: list[int
     """
 
     def get_percentiles(latency: NDArray):
-        return {p: np.percentile(latency, p) for p in percentiles}
+        return {p: round(np.percentile(latency, p), 2) for p in percentiles}
 
     e2e = np.sum(list(stage_latencies.values()), axis=0)
     e2e_mean = e2e.mean()
     stage_means = {stage: latency.mean() for stage, latency in stage_latencies.items()}
 
     return {
-        'e2e_mean': e2e_mean,
+        'e2e_mean': round(e2e_mean, 2),
         'e2e_percentiles': get_percentiles(e2e),
         'stage_stats': {
             stage: {
-                'mean': stage_means[stage],
+                'mean': round(stage_means[stage], 2),
                 'std': round(latency.std(), 2),
                 'percentiles': get_percentiles(latency),
             }
