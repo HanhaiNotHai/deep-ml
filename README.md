@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**157** solved · 144 problems · 8 labs · 5 math
+**158** solved · 145 problems · 8 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -149,6 +149,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-10-16 | [solution](problems/0378-temperature-sampling) |
 | [Top-p (Nucleus) Sampling](https://www.deep-ml.com/problems/383) | medium | 2026-10-16 | [solution](problems/0383-top-p-nucleus-sampling) |
 | [Train Bigram Language Model as a Neural Network](https://www.deep-ml.com/problems/988) | medium | 2026-10-15 | [solution](problems/0988-train-bigram-language-model-as-a-neural-network) |
+| [Combined Token Sampling Pipeline (Temperature + Top-k + Top-p)](https://www.deep-ml.com/problems/419) | hard | 2026-10-19 | [solution](problems/0419-combined-token-sampling-pipeline-temperature-top-k-top-p) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2024-08-01 | [solution](problems/0020-decision-tree-learning) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2024-07-29 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-16 | [solution](problems/0094-implement-multi-head-attention) |
