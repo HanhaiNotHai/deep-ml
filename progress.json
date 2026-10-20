@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:18:10.065Z",
+  "generated_at": "2026-10-20T02:34:00.696Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2160,6 +2160,19 @@
       "path": "math/0066-online-softmax-running-max-and-correction",
       "first_solved_at": "2026-10-19T10:18:08.280Z",
       "last_pushed_at": "2026-10-19T10:18:08.280Z"
+    },
+    "problem:495": {
+      "kind": "problem",
+      "id": "495",
+      "title": "Analyzing Memory Fragmentation in LLM Serving",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/495",
+      "path": "problems/0495-analyzing-memory-fragmentation-in-llm-serving",
+      "first_solved_at": "2026-10-20T02:33:57.894Z",
+      "last_pushed_at": "2026-10-20T02:33:57.894Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }

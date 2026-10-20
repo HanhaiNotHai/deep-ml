@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**168** solved · 148 problems · 8 labs · 12 math
+**169** solved · 149 problems · 8 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Add Positional Embeddings to Token Embeddings](https://www.deep-ml.com/problems/946) | easy | 2026-10-15 | [solution](problems/0946-add-positional-embeddings-to-token-embeddings) |
+| [Analyzing Memory Fragmentation in LLM Serving](https://www.deep-ml.com/problems/495) | easy | 2026-10-20 | [solution](problems/0495-analyzing-memory-fragmentation-in-llm-serving) |
 | [Apply Dropout to Attention Weights](https://www.deep-ml.com/problems/956) | easy | 2026-10-15 | [solution](problems/0956-apply-dropout-to-attention-weights) |
 | [Average Negative Log-Likelihood for Bigram Model](https://www.deep-ml.com/problems/986) | easy | 2026-10-15 | [solution](problems/0986-average-negative-log-likelihood-for-bigram-model) |
 | [Batch a TensorDataset with DataLoader](https://www.deep-ml.com/problems/1237) | easy | 2026-09-28 | [solution](problems/1237-batch-a-tensordataset-with-dataloader) |
