@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**170** solved · 150 problems · 8 labs · 12 math
+**171** solved · 151 problems · 8 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -158,6 +158,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2024-08-01 | [solution](problems/0020-decision-tree-learning) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2024-07-29 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-16 | [solution](problems/0094-implement-multi-head-attention) |
+| [Implementing PagedAttention: Block-wise Attention Computation](https://www.deep-ml.com/problems/492) | hard | 2026-10-20 | [solution](problems/0492-implementing-pagedattention-block-wise-attention-computation) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-10-16 | [solution](problems/0085-positional-encoding-calculator) |
 | [Pre-allocated Sliding KV Cache Update](https://www.deep-ml.com/problems/1011) | hard | 2026-10-19 | [solution](problems/1011-pre-allocated-sliding-kv-cache-update) |
 | [Pre-Norm GPT Transformer Block Forward Pass](https://www.deep-ml.com/problems/1056) | hard | 2026-10-16 | [solution](problems/1056-pre-norm-gpt-transformer-block-forward-pass) |

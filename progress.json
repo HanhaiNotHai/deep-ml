@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T03:28:40.210Z",
+  "generated_at": "2026-10-20T08:12:55.168Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2186,6 +2186,19 @@
       "last_pushed_at": "2026-10-20T03:28:39.404Z",
       "language": "python",
       "lines": 94
+    },
+    "problem:492": {
+      "kind": "problem",
+      "id": "492",
+      "title": "Implementing PagedAttention: Block-wise Attention Computation",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/492",
+      "path": "problems/0492-implementing-pagedattention-block-wise-attention-computation",
+      "first_solved_at": "2026-10-20T08:12:54.098Z",
+      "last_pushed_at": "2026-10-20T08:12:54.098Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }
