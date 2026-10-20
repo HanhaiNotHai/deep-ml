@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**171** solved · 151 problems · 8 labs · 12 math
+**172** solved · 152 problems · 8 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -46,6 +46,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Embedding Layer as One-Hot Matrix Multiplication](https://www.deep-ml.com/problems/947) | easy | 2026-10-15 | [solution](problems/0947-embedding-layer-as-one-hot-matrix-multiplication) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2024-07-31 | [solution](problems/0016-feature-scaling-implementation) |
 | [Find Most Frequent Token Pair for BPE](https://www.deep-ml.com/problems/948) | easy | 2026-10-14 | [solution](problems/0948-find-most-frequent-token-pair-for-bpe) |
+| [Flip an Image Horizontally or Vertically](https://www.deep-ml.com/problems/238) | easy | 2026-10-20 | [solution](problems/0238-flip-an-image-horizontally-or-vertically) |
 | [Generate Input-Target Batches for Language Model Training](https://www.deep-ml.com/problems/1080) | easy | 2026-10-15 | [solution](problems/1080-generate-input-target-batches-for-language-model-training) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2025-10-23 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Greedy Autoregressive Text Generation](https://www.deep-ml.com/problems/1070) | easy | 2026-10-16 | [solution](problems/1070-greedy-autoregressive-text-generation) |
