@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**173** solved · 152 problems · 8 labs · 13 math
+**174** solved · 152 problems · 8 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -186,6 +186,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [PagedAttention Internal Fragmentation](https://www.deep-ml.com/math-problems/67) | easy | 2026-10-19 | [solution](math/0067-pagedattention-internal-fragmentation) |
 | [Prefix-Cache Hit Rate and TTFT](https://www.deep-ml.com/math-problems/68) | easy | 2026-10-19 | [solution](math/0068-prefix-cache-hit-rate-and-ttft) |
 | [Arithmetic Intensity of Matmul vs Decode Attention](https://www.deep-ml.com/math-problems/63) | medium | 2026-10-19 | [solution](math/0063-arithmetic-intensity-of-matmul-vs-decode-attention) |
+| [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-11-02 | [solution](math/0020-bayes-theorem) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-10-12 | [solution](math/0024-information-theory-entropy) |
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-11-02 | [solution](math/0034-least-squares-and-the-normal-equations) |
 | [Online Softmax: Running Max and Correction](https://www.deep-ml.com/math-problems/66) | medium | 2026-10-19 | [solution](math/0066-online-softmax-running-max-and-correction) |
