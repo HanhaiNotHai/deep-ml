@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**174** solved · 152 problems · 8 labs · 14 math
+**175** solved · 153 problems · 8 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -33,6 +33,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Vocabulary Size from Token List](https://www.deep-ml.com/problems/953) | easy | 2026-10-13 | [solution](problems/0953-calculate-vocabulary-size-from-token-list) |
 | [Compute Arithmetic Intensity and Classify Bottleneck](https://www.deep-ml.com/problems/414) | easy | 2026-10-19 | [solution](problems/0414-compute-arithmetic-intensity-and-classify-bottleneck) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-09-29 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
+| [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-11-02 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Compute TTFT ITL and TPS from a Token Timestamp Stream](https://www.deep-ml.com/problems/411) | easy | 2026-10-19 | [solution](problems/0411-compute-ttft-itl-and-tps-from-a-token-timestamp-stream) |
 | [Construct Causal Attention Mask via tril and triu Methods](https://www.deep-ml.com/problems/965) | easy | 2026-10-16 | [solution](problems/0965-construct-causal-attention-mask-via-tril-and-triu-methods) |
 | [Construct Next-Token Prediction Targets](https://www.deep-ml.com/problems/954) | easy | 2026-10-15 | [solution](problems/0954-construct-next-token-prediction-targets) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T02:15:36.519Z",
+  "generated_at": "2026-11-02T02:21:42.978Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2234,6 +2234,19 @@
       "path": "math/0020-bayes-theorem",
       "first_solved_at": "2026-11-02T02:15:30.096Z",
       "last_pushed_at": "2026-11-02T02:15:30.096Z"
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2026-11-02T02:21:40.841Z",
+      "last_pushed_at": "2026-11-02T02:21:40.841Z",
+      "language": "python",
+      "lines": 3
     }
   }
 }
