@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**172** solved · 152 problems · 8 labs · 12 math
+**173** solved · 152 problems · 8 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -187,6 +187,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Prefix-Cache Hit Rate and TTFT](https://www.deep-ml.com/math-problems/68) | easy | 2026-10-19 | [solution](math/0068-prefix-cache-hit-rate-and-ttft) |
 | [Arithmetic Intensity of Matmul vs Decode Attention](https://www.deep-ml.com/math-problems/63) | medium | 2026-10-19 | [solution](math/0063-arithmetic-intensity-of-matmul-vs-decode-attention) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-10-12 | [solution](math/0024-information-theory-entropy) |
+| [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-11-02 | [solution](math/0034-least-squares-and-the-normal-equations) |
 | [Online Softmax: Running Max and Correction](https://www.deep-ml.com/math-problems/66) | medium | 2026-10-19 | [solution](math/0066-online-softmax-running-max-and-correction) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-09-29 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-09-29 | [solution](math/0031-regularization-and-generalization) |
