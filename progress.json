@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T02:30:10.547Z",
+  "generated_at": "2026-11-03T02:31:09.588Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2349,6 +2349,19 @@
       "last_pushed_at": "2026-11-03T02:30:09.640Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:1271": {
+      "kind": "problem",
+      "id": "1271",
+      "title": "Tensor Puzzle: Extract the Diagonal",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1271",
+      "path": "problems/1271-tensor-puzzle-extract-the-diagonal",
+      "first_solved_at": "2026-11-03T02:31:08.693Z",
+      "last_pushed_at": "2026-11-03T02:31:08.693Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
