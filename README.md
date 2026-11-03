@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**188** solved · 165 problems · 8 labs · 15 math
+**189** solved · 165 problems · 8 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -198,6 +198,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bytes in the KV Cache (MHA, GQA, MQA, MLA)](https://www.deep-ml.com/math-problems/62) | easy | 2026-10-19 | [solution](math/0062-bytes-in-the-kv-cache-mha-gqa-mqa-mla) |
 | [PagedAttention Internal Fragmentation](https://www.deep-ml.com/math-problems/67) | easy | 2026-10-19 | [solution](math/0067-pagedattention-internal-fragmentation) |
 | [Prefix-Cache Hit Rate and TTFT](https://www.deep-ml.com/math-problems/68) | easy | 2026-10-19 | [solution](math/0068-prefix-cache-hit-rate-and-ttft) |
+| [What the Bias Term Buys: Affine Maps, the Bias Gradient and When It Is Redundant](https://www.deep-ml.com/math-problems/277) | easy | 2026-11-03 | [solution](math/0277-what-the-bias-term-buys-affine-maps-the-bias-gradient-and-when-it-is-redundant) |
 | [Arithmetic Intensity of Matmul vs Decode Attention](https://www.deep-ml.com/math-problems/63) | medium | 2026-10-19 | [solution](math/0063-arithmetic-intensity-of-matmul-vs-decode-attention) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-11-02 | [solution](math/0020-bayes-theorem) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-10-12 | [solution](math/0024-information-theory-entropy) |

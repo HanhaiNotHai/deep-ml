@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T02:47:50.533Z",
+  "generated_at": "2026-11-03T03:30:37.129Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2414,6 +2414,17 @@
       "last_pushed_at": "2026-11-03T02:47:49.084Z",
       "language": "python",
       "lines": 9
+    },
+    "math:277": {
+      "kind": "math",
+      "id": "277",
+      "title": "What the Bias Term Buys: Affine Maps, the Bias Gradient and When It Is Redundant",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/277",
+      "path": "math/0277-what-the-bias-term-buys-affine-maps-the-bias-gradient-and-when-it-is-redundant",
+      "first_solved_at": "2026-11-03T03:30:36.213Z",
+      "last_pushed_at": "2026-11-03T03:30:36.213Z"
     }
   }
 }
