@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T03:30:37.129Z",
+  "generated_at": "2026-11-03T03:36:21.051Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2425,6 +2425,19 @@
       "path": "math/0277-what-the-bias-term-buys-affine-maps-the-bias-gradient-and-when-it-is-redundant",
       "first_solved_at": "2026-11-03T03:30:36.213Z",
       "last_pushed_at": "2026-11-03T03:30:36.213Z"
+    },
+    "problem:156": {
+      "kind": "problem",
+      "id": "156",
+      "title": "Implement SwiGLU activation function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/156",
+      "path": "problems/0156-implement-swiglu-activation-function",
+      "first_solved_at": "2026-11-03T03:36:19.724Z",
+      "last_pushed_at": "2026-11-03T03:36:19.724Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
