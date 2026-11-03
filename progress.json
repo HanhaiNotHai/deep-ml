@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T08:47:24.229Z",
+  "generated_at": "2026-11-03T08:51:29.050Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2540,6 +2540,19 @@
       "path": "problems/0998-reduce-gradient-across-broadcasted-dimensions",
       "first_solved_at": "2026-11-03T08:47:20.168Z",
       "last_pushed_at": "2026-11-03T08:47:20.168Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:999": {
+      "kind": "problem",
+      "id": "999",
+      "title": "Backward Pass of Tanh Using Cached Output",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/999",
+      "path": "problems/0999-backward-pass-of-tanh-using-cached-output",
+      "first_solved_at": "2026-11-03T08:51:24.737Z",
+      "last_pushed_at": "2026-11-03T08:51:24.737Z",
       "language": "python",
       "lines": 17
     }
