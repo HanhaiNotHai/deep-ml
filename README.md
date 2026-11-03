@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**199** solved · 175 problems · 8 labs · 16 math
+**200** solved · 176 problems · 8 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Apply Dropout to Attention Weights](https://www.deep-ml.com/problems/956) | easy | 2026-10-15 | [solution](problems/0956-apply-dropout-to-attention-weights) |
 | [Average Negative Log-Likelihood for Bigram Model](https://www.deep-ml.com/problems/986) | easy | 2026-10-15 | [solution](problems/0986-average-negative-log-likelihood-for-bigram-model) |
 | [Backward Pass of Tanh Using Cached Output](https://www.deep-ml.com/problems/999) | easy | 2026-11-03 | [solution](problems/0999-backward-pass-of-tanh-using-cached-output) |
+| [Backward Pass of Tensor Reshape](https://www.deep-ml.com/problems/1000) | easy | 2026-11-03 | [solution](problems/1000-backward-pass-of-tensor-reshape) |
 | [Batch a TensorDataset with DataLoader](https://www.deep-ml.com/problems/1237) | easy | 2026-09-28 | [solution](problems/1237-batch-a-tensordataset-with-dataloader) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2024-08-02 | [solution](problems/0030-batch-iterator-for-dataset) |
 | [BPE Decode Token IDs to Text](https://www.deep-ml.com/problems/951) | easy | 2026-10-14 | [solution](problems/0951-bpe-decode-token-ids-to-text) |
