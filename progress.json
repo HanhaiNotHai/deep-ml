@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T09:46:47.359Z",
+  "generated_at": "2026-11-03T09:53:47.005Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2568,6 +2568,19 @@
       "last_pushed_at": "2026-11-03T09:46:46.011Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:1001": {
+      "kind": "problem",
+      "id": "1001",
+      "title": "Backward Pass of Row-wise Max Operation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1001",
+      "path": "problems/1001-backward-pass-of-row-wise-max-operation",
+      "first_solved_at": "2026-11-03T09:53:44.573Z",
+      "last_pushed_at": "2026-11-03T09:53:44.573Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }

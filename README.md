@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**200** solved · 176 problems · 8 labs · 16 math
+**201** solved · 177 problems · 8 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -112,6 +112,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Apply a 2D Convolution](https://www.deep-ml.com/problems/1233) | medium | 2026-10-12 | [solution](problems/1233-apply-a-2d-convolution) |
 | [Backpropagation Gradients for a Dense Layer](https://www.deep-ml.com/problems/1076) | medium | 2026-11-03 | [solution](problems/1076-backpropagation-gradients-for-a-dense-layer) |
 | [Backpropagation Through a Scalar Chain Network](https://www.deep-ml.com/problems/1075) | medium | 2026-11-03 | [solution](problems/1075-backpropagation-through-a-scalar-chain-network) |
+| [Backward Pass of Row-wise Max Operation](https://www.deep-ml.com/problems/1001) | medium | 2026-11-03 | [solution](problems/1001-backward-pass-of-row-wise-max-operation) |
 | [BatchNorm1d Forward in Eval Mode](https://www.deep-ml.com/problems/1231) | medium | 2026-09-30 | [solution](problems/1231-batchnorm1d-forward-in-eval-mode) |
 | [Beam Search Decoding](https://www.deep-ml.com/problems/385) | medium | 2026-10-19 | [solution](problems/0385-beam-search-decoding) |
 | [BPE Encode Text Using Merge Table](https://www.deep-ml.com/problems/950) | medium | 2026-10-14 | [solution](problems/0950-bpe-encode-text-using-merge-table) |
