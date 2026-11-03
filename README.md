@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**179** solved · 156 problems · 8 labs · 15 math
+**180** solved · 157 problems · 8 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2024-07-25 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-10-12 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Calculate Vocabulary Size from Token List](https://www.deep-ml.com/problems/953) | easy | 2026-10-13 | [solution](problems/0953-calculate-vocabulary-size-from-token-list) |
+| [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-11-03 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Compute Arithmetic Intensity and Classify Bottleneck](https://www.deep-ml.com/problems/414) | easy | 2026-10-19 | [solution](problems/0414-compute-arithmetic-intensity-and-classify-bottleneck) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-09-29 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-11-02 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
