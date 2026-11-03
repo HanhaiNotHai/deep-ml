@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T02:31:09.588Z",
+  "generated_at": "2026-11-03T02:32:23.052Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2360,6 +2360,19 @@
       "path": "problems/1271-tensor-puzzle-extract-the-diagonal",
       "first_solved_at": "2026-11-03T02:31:08.693Z",
       "last_pushed_at": "2026-11-03T02:31:08.693Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:1272": {
+      "kind": "problem",
+      "id": "1272",
+      "title": "Tensor Puzzle: Identity Matrix from Comparisons",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1272",
+      "path": "problems/1272-tensor-puzzle-identity-matrix-from-comparisons",
+      "first_solved_at": "2026-11-03T02:32:21.881Z",
+      "last_pushed_at": "2026-11-03T02:32:21.881Z",
       "language": "python",
       "lines": 9
     }
