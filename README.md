@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**205** solved · 179 problems · 9 labs · 17 math
+**206** solved · 180 problems · 9 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -147,6 +147,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Conv2d with `unfold`](https://www.deep-ml.com/problems/900) | medium | 2026-10-12 | [solution](problems/0900-implement-conv2d-with-unfold) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-07-01 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Group Normalization](https://www.deep-ml.com/problems/126) | medium | 2026-09-30 | [solution](problems/0126-implement-group-normalization) |
+| [Implement He Weight Initialization for Neural Networks](https://www.deep-ml.com/problems/370) | medium | 2026-11-04 | [solution](problems/0370-implement-he-weight-initialization-for-neural-networks) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2024-07-31 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement K-Means++ Initialization](https://www.deep-ml.com/problems/362) | medium | 2026-06-25 | [solution](problems/0362-implement-k-means-initialization) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-09-30 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
