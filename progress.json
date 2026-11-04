@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T07:25:26.770Z",
+  "generated_at": "2026-11-04T07:51:06.801Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2722,6 +2722,19 @@
       "last_pushed_at": "2026-11-04T07:25:25.580Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:1003": {
+      "kind": "problem",
+      "id": "1003",
+      "title": "BatchNorm1d Forward with Bessel's Correction",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1003",
+      "path": "problems/1003-batchnorm1d-forward-with-bessel-s-correction",
+      "first_solved_at": "2026-11-04T07:51:05.597Z",
+      "last_pushed_at": "2026-11-04T07:51:05.597Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
