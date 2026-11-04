@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T09:56:35.048Z",
+  "generated_at": "2026-11-04T09:59:01.345Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2772,6 +2772,19 @@
       "path": "problems/1840-fold-batchnorm-into-the-preceding-convolution",
       "first_solved_at": "2026-11-04T09:56:33.658Z",
       "last_pushed_at": "2026-11-04T09:56:33.658Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:372": {
+      "kind": "problem",
+      "id": "372",
+      "title": "Implement RMSNorm (Root Mean Square Layer Normalization)",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/372",
+      "path": "problems/0372-implement-rmsnorm-root-mean-square-layer-normalization",
+      "first_solved_at": "2026-11-04T09:59:00.235Z",
+      "last_pushed_at": "2026-11-04T09:59:00.235Z",
       "language": "python",
       "lines": 18
     }
