@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**209** solved · 183 problems · 9 labs · 17 math
+**210** solved · 184 problems · 9 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -53,6 +53,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find Most Frequent Token Pair for BPE](https://www.deep-ml.com/problems/948) | easy | 2026-10-14 | [solution](problems/0948-find-most-frequent-token-pair-for-bpe) |
 | [Flip an Image Horizontally or Vertically](https://www.deep-ml.com/problems/238) | easy | 2026-10-20 | [solution](problems/0238-flip-an-image-horizontally-or-vertically) |
 | [Generate Input-Target Batches for Language Model Training](https://www.deep-ml.com/problems/1080) | easy | 2026-10-15 | [solution](problems/1080-generate-input-target-batches-for-language-model-training) |
+| [Gradient of a Square with Autograd](https://www.deep-ml.com/problems/1222) | easy | 2026-11-04 | [solution](problems/1222-gradient-of-a-square-with-autograd) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2025-10-23 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Greedy Autoregressive Text Generation](https://www.deep-ml.com/problems/1070) | easy | 2026-10-16 | [solution](problems/1070-greedy-autoregressive-text-generation) |
 | [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-09-30 | [solution](problems/0901-implement-dropout-from-scratch) |
