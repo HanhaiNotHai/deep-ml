@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T07:51:06.801Z",
+  "generated_at": "2026-11-04T08:22:27.941Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2735,6 +2735,19 @@
       "last_pushed_at": "2026-11-04T07:51:05.597Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:1005": {
+      "kind": "problem",
+      "id": "1005",
+      "title": "BatchNorm1d Supporting 2D and 3D Inputs",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1005",
+      "path": "problems/1005-batchnorm1d-supporting-2d-and-3d-inputs",
+      "first_solved_at": "2026-11-04T08:22:26.909Z",
+      "last_pushed_at": "2026-11-04T08:22:26.909Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }

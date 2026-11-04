@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**213** solved · 187 problems · 9 labs · 17 math
+**214** solved · 188 problems · 9 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -120,6 +120,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Backpropagation Through a Scalar Chain Network](https://www.deep-ml.com/problems/1075) | medium | 2026-11-03 | [solution](problems/1075-backpropagation-through-a-scalar-chain-network) |
 | [Backward Pass of Row-wise Max Operation](https://www.deep-ml.com/problems/1001) | medium | 2026-11-03 | [solution](problems/1001-backward-pass-of-row-wise-max-operation) |
 | [BatchNorm1d Forward in Eval Mode](https://www.deep-ml.com/problems/1231) | medium | 2026-09-30 | [solution](problems/1231-batchnorm1d-forward-in-eval-mode) |
+| [BatchNorm1d Supporting 2D and 3D Inputs](https://www.deep-ml.com/problems/1005) | medium | 2026-11-04 | [solution](problems/1005-batchnorm1d-supporting-2d-and-3d-inputs) |
 | [Beam Search Decoding](https://www.deep-ml.com/problems/385) | medium | 2026-10-19 | [solution](problems/0385-beam-search-decoding) |
 | [BPE Encode Text Using Merge Table](https://www.deep-ml.com/problems/950) | medium | 2026-10-14 | [solution](problems/0950-bpe-encode-text-using-merge-table) |
 | [Building a Virtual Memory System for KV Cache](https://www.deep-ml.com/problems/493) | medium | 2026-10-20 | [solution](problems/0493-building-a-virtual-memory-system-for-kv-cache) |
