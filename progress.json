@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T08:47:00.156Z",
+  "generated_at": "2026-11-04T09:56:35.048Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2761,6 +2761,19 @@
       "last_pushed_at": "2026-11-04T08:46:59.198Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:1840": {
+      "kind": "problem",
+      "id": "1840",
+      "title": "Fold BatchNorm into the Preceding Convolution",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1840",
+      "path": "problems/1840-fold-batchnorm-into-the-preceding-convolution",
+      "first_solved_at": "2026-11-04T09:56:33.658Z",
+      "last_pushed_at": "2026-11-04T09:56:33.658Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
