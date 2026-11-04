@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T02:55:50.849Z",
+  "generated_at": "2026-11-04T03:32:20.914Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2594,6 +2594,17 @@
       "last_pushed_at": "2026-11-04T02:55:49.740Z",
       "language": "python",
       "lines": 120
+    },
+    "math:131": {
+      "kind": "math",
+      "id": "131",
+      "title": "Variance Preservation and He/Glorot Scaling",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/131",
+      "path": "math/0131-variance-preservation-and-he-glorot-scaling",
+      "first_solved_at": "2026-11-04T03:32:20.253Z",
+      "last_pushed_at": "2026-11-04T03:32:20.253Z"
     }
   }
 }

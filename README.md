@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**202** solved · 177 problems · 9 labs · 16 math
+**203** solved · 177 problems · 9 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -223,6 +223,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Speculative Speedup as a Geometric Series](https://www.deep-ml.com/math-problems/65) | medium | 2026-10-19 | [solution](math/0065-speculative-speedup-as-a-geometric-series) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-09-29 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
 | [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-11-02 | [solution](math/0046-the-four-fundamental-subspaces) |
+| [Variance Preservation and He/Glorot Scaling](https://www.deep-ml.com/math-problems/131) | medium | 2026-11-04 | [solution](math/0131-variance-preservation-and-he-glorot-scaling) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-10-16 | [solution](math/0025-kl-divergence) |
 
 ---
