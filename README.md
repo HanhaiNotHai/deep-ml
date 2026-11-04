@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**210** solved · 184 problems · 9 labs · 17 math
+**211** solved · 185 problems · 9 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -138,6 +138,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-07-01 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Gradient Accumulation Over Micro-Batches](https://www.deep-ml.com/problems/912) | medium | 2026-10-09 | [solution](problems/0912-gradient-accumulation-over-micro-batches) |
 | [Gradient Clipping by Norm](https://www.deep-ml.com/problems/909) | medium | 2026-10-09 | [solution](problems/0909-gradient-clipping-by-norm) |
+| [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-11-04 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
 | [Greedy Streaming Decoder with KV Cache](https://www.deep-ml.com/problems/1055) | medium | 2026-10-16 | [solution](problems/1055-greedy-streaming-decoder-with-kv-cache) |
 | [Image Segmentation via K-Means Clustering](https://www.deep-ml.com/problems/832) | medium | 2026-06-26 | [solution](problems/0832-image-segmentation-via-k-means-clustering) |
 | [Implement a Custom `autograd.Function`](https://www.deep-ml.com/problems/903) | medium | 2026-10-12 | [solution](problems/0903-implement-a-custom-autograd-function) |
