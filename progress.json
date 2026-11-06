@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T02:01:14.151Z",
+  "generated_at": "2026-11-06T02:48:07.390Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2813,6 +2813,19 @@
       "last_pushed_at": "2026-11-06T02:01:13.170Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:1046": {
+      "kind": "problem",
+      "id": "1046",
+      "title": "Zero-Initialized RMSNorm with (1+w) Scaling",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1046",
+      "path": "problems/1046-zero-initialized-rmsnorm-with-1-w-scaling",
+      "first_solved_at": "2026-11-06T02:48:06.118Z",
+      "last_pushed_at": "2026-11-06T02:48:06.118Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
