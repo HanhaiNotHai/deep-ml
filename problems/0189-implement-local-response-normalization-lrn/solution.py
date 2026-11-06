@@ -1,47 +1,35 @@
 import numpy as np
 
-
-def local_response_normalization(
-    x: np.ndarray,
-    n: int = 5,
-    k: float = 2.0,
-    alpha: float = 1e-4,
-    beta: float = 0.75,
-) -> np.ndarray:
+def local_response_normalization(x: np.ndarray, n: int = 5, k: float = 2.0, alpha: float = 1e-4, beta: float = 0.75) -> np.ndarray:
     """
     Applies Local Response Normalization across the channel dimension.
 
     Args:
-        x: Input tensor of shape (N, C, H, W).
-        n: Local window size.
-        k: Additive constant.
-        alpha: Scaling parameter.
-        beta: Exponent parameter.
+        x: Input tensor of shape (N, C, H, W)
+        n: Local window size parameter (half-width h = floor(n/2))
+        k: Additive constant
+        alpha: Scaling parameter
+        beta: Exponent parameter
 
     Returns:
-        Normalized tensor of the same shape as input, rounded to 4 decimals.
+        Normalized tensor of same shape as input, rounded to 4 decimals.
     """
-    x = np.asarray(x, dtype=np.float64)
-    if x.ndim != 4:
-        raise ValueError("Input must have shape (N, C, H, W).")
-    if n < 1:
-        raise ValueError("n must be a positive integer.")
-
     h = n // 2
+    window_size = 2 * h + 1  # 对称窗口的实际长度
 
-    # Cumulative sum of squared activations along the channel axis.
-    sq_sum = np.pad(
-        np.cumsum(x**2, axis=1),
-        ((0, 0), (1, 0), (0, 0), (0, 0)),
-    )
+    # 1. 计算激活值的平方
+    x_sq = np.square(x)
 
-    # Compute clipped channel window boundaries.
-    channels = np.arange(x.shape[1])
-    left = np.maximum(channels - h, 0)
-    right = np.minimum(channels + h + 1, x.shape[1])
+    # 2. 通道维度前后补零，实现边缘自动裁剪的效果
+    padded = np.pad(x_sq, pad_width=((0, 0), (h, h), (0, 0), (0, 0)), mode="constant")
 
-    # Sum of squared activations within each local window.
-    local_sum = sq_sum[:, right] - sq_sum[:, left]
+    # 3. 通道维度滑动窗口求和（向量化，无循环）
+    windows = np.lib.stride_tricks.sliding_window_view(padded, window_shape=window_size, axis=1)
+    sum_sq = windows.sum(axis=-1)
 
-    # Apply Local Response Normalization.
-    return np.round(x / (k + alpha * local_sum) ** beta, 4)
+    # 4. 按公式计算归一化结果
+    denominator = (k + alpha * sum_sq) ** beta
+    output = x / denominator
+
+    # 5. 保留4位小数返回
+    return np.round(output, 4)
