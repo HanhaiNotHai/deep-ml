@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:21:30.104Z",
+  "generated_at": "2026-11-06T09:27:54.079Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2865,6 +2865,19 @@
       "last_pushed_at": "2026-11-06T09:21:28.903Z",
       "language": "python",
       "lines": 36
+    },
+    "problem:1843": {
+      "kind": "problem",
+      "id": "1843",
+      "title": "Adaptive and Conditional Instance Normalization",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/1843",
+      "path": "problems/1843-adaptive-and-conditional-instance-normalization",
+      "first_solved_at": "2026-11-06T09:27:52.437Z",
+      "last_pushed_at": "2026-11-06T09:27:52.437Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }

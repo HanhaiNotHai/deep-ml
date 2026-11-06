@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**223** solved · 197 problems · 9 labs · 17 math
+**224** solved · 198 problems · 9 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Adaptive and Conditional Instance Normalization](https://www.deep-ml.com/problems/1843) | easy | 2026-11-06 | [solution](problems/1843-adaptive-and-conditional-instance-normalization) |
 | [Add Positional Embeddings to Token Embeddings](https://www.deep-ml.com/problems/946) | easy | 2026-10-15 | [solution](problems/0946-add-positional-embeddings-to-token-embeddings) |
 | [Analyzing Memory Fragmentation in LLM Serving](https://www.deep-ml.com/problems/495) | easy | 2026-10-20 | [solution](problems/0495-analyzing-memory-fragmentation-in-llm-serving) |
 | [Apply Dropout to Attention Weights](https://www.deep-ml.com/problems/956) | easy | 2026-10-15 | [solution](problems/0956-apply-dropout-to-attention-weights) |
