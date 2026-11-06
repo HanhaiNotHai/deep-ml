@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**222** solved · 196 problems · 9 labs · 17 math
+**223** solved · 197 problems · 9 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -121,6 +121,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2024-07-25 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Zero-Initialized RMSNorm with (1+w) Scaling](https://www.deep-ml.com/problems/1046) | easy | 2026-11-06 | [solution](problems/1046-zero-initialized-rmsnorm-with-1-w-scaling) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-07-01 | [solution](problems/0055-2d-translation-matrix-implementation) |
+| [Adaptive Layer Normalization for Conditional Generation](https://www.deep-ml.com/problems/684) | medium | 2026-11-06 | [solution](problems/0684-adaptive-layer-normalization-for-conditional-generation) |
 | [Apply a 2D Convolution](https://www.deep-ml.com/problems/1233) | medium | 2026-10-12 | [solution](problems/1233-apply-a-2d-convolution) |
 | [Backpropagation Gradients for a Dense Layer](https://www.deep-ml.com/problems/1076) | medium | 2026-11-03 | [solution](problems/1076-backpropagation-gradients-for-a-dense-layer) |
 | [Backpropagation Through a Scalar Chain Network](https://www.deep-ml.com/problems/1075) | medium | 2026-11-03 | [solution](problems/1075-backpropagation-through-a-scalar-chain-network) |

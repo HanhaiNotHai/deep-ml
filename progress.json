@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:11:50.401Z",
+  "generated_at": "2026-11-06T09:21:30.104Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2850,6 +2850,19 @@
       "path": "problems/0189-implement-local-response-normalization-lrn",
       "first_solved_at": "2026-11-06T09:05:06.844Z",
       "last_pushed_at": "2026-11-06T09:11:49.316Z",
+      "language": "python",
+      "lines": 36
+    },
+    "problem:684": {
+      "kind": "problem",
+      "id": "684",
+      "title": "Adaptive Layer Normalization for Conditional Generation",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/684",
+      "path": "problems/0684-adaptive-layer-normalization-for-conditional-generation",
+      "first_solved_at": "2026-11-06T09:21:28.903Z",
+      "last_pushed_at": "2026-11-06T09:21:28.903Z",
       "language": "python",
       "lines": 36
     }
