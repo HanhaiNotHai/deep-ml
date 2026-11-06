@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**221** solved · 195 problems · 9 labs · 17 math
+**222** solved · 196 problems · 9 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -165,6 +165,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2024-07-31 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement K-Means++ Initialization](https://www.deep-ml.com/problems/362) | medium | 2026-06-25 | [solution](problems/0362-implement-k-means-initialization) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-09-30 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
+| [Implement Local Response Normalization (LRN)](https://www.deep-ml.com/problems/189) | medium | 2026-11-06 | [solution](problems/0189-implement-local-response-normalization-lrn) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-07-01 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-10-16 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Mini-Batch K-Means](https://www.deep-ml.com/problems/363) | medium | 2026-06-26 | [solution](problems/0363-implement-mini-batch-k-means) |
