@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**220** solved · 194 problems · 9 labs · 17 math
+**221** solved · 195 problems · 9 labs · 17 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find Most Frequent Token Pair for BPE](https://www.deep-ml.com/problems/948) | easy | 2026-10-14 | [solution](problems/0948-find-most-frequent-token-pair-for-bpe) |
 | [Flip an Image Horizontally or Vertically](https://www.deep-ml.com/problems/238) | easy | 2026-10-20 | [solution](problems/0238-flip-an-image-horizontally-or-vertically) |
 | [Fold BatchNorm into the Preceding Convolution](https://www.deep-ml.com/problems/1840) | easy | 2026-11-04 | [solution](problems/1840-fold-batchnorm-into-the-preceding-convolution) |
+| [Gemma-Style RMSNorm with Optional Scale](https://www.deep-ml.com/problems/1047) | easy | 2026-11-06 | [solution](problems/1047-gemma-style-rmsnorm-with-optional-scale) |
 | [Generate Input-Target Batches for Language Model Training](https://www.deep-ml.com/problems/1080) | easy | 2026-10-15 | [solution](problems/1080-generate-input-target-batches-for-language-model-training) |
 | [Gradient of a Square with Autograd](https://www.deep-ml.com/problems/1222) | easy | 2026-11-04 | [solution](problems/1222-gradient-of-a-square-with-autograd) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2025-10-23 | [solution](problems/0082-grayscale-image-contrast-calculator) |
