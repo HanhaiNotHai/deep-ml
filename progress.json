@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T09:59:01.345Z",
+  "generated_at": "2026-11-06T02:00:10.820Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2787,6 +2787,19 @@
       "last_pushed_at": "2026-11-04T09:59:00.235Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:1039": {
+      "kind": "problem",
+      "id": "1039",
+      "title": "Implement Bias-less Cohere LayerNorm",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1039",
+      "path": "problems/1039-implement-bias-less-cohere-layernorm",
+      "first_solved_at": "2026-11-06T02:00:09.630Z",
+      "last_pushed_at": "2026-11-06T02:00:09.630Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
