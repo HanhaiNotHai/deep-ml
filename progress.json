@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T08:08:29.674Z",
+  "generated_at": "2026-11-09T09:55:07.047Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2904,6 +2904,19 @@
       "last_pushed_at": "2026-11-09T08:08:28.205Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:1008": {
+      "kind": "problem",
+      "id": "1008",
+      "title": "Shortcut Connection Gradient Effect in Deep Networks",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1008",
+      "path": "problems/1008-shortcut-connection-gradient-effect-in-deep-networks",
+      "first_solved_at": "2026-11-09T09:55:05.965Z",
+      "last_pushed_at": "2026-11-09T09:55:05.965Z",
+      "language": "python",
+      "lines": 50
     }
   }
 }
