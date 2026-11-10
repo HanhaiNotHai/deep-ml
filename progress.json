@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T09:55:07.047Z",
+  "generated_at": "2026-11-10T08:11:53.358Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2917,6 +2917,19 @@
       "last_pushed_at": "2026-11-09T09:55:05.965Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:915": {
+      "kind": "problem",
+      "id": "915",
+      "title": "Implement Focal Loss",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/915",
+      "path": "problems/0915-implement-focal-loss",
+      "first_solved_at": "2026-11-10T08:11:50.709Z",
+      "last_pushed_at": "2026-11-10T08:11:50.709Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
