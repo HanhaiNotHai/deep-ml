@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**230** solved · 202 problems · 9 labs · 19 math
+**231** solved · 202 problems · 9 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -247,6 +247,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Receptive Fields: Stacked 3x3 Filters, Strides and Dilation](https://www.deep-ml.com/math-problems/476) | medium | 2026-11-11 | [solution](math/0476-receptive-fields-stacked-3x3-filters-strides-and-dilation) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-09-29 | [solution](math/0031-regularization-and-generalization) |
 | [Roofline: Time is the Max of Bytes/BW and FLOPs/Peak](https://www.deep-ml.com/math-problems/64) | medium | 2026-10-19 | [solution](math/0064-roofline-time-is-the-max-of-bytes-bw-and-flops-peak) |
+| [Scaled Dot-Product Variance: Why Divide by the Square Root of d](https://www.deep-ml.com/math-problems/134) | medium | 2026-11-11 | [solution](math/0134-scaled-dot-product-variance-why-divide-by-the-square-root-of-d) |
 | [Speculative Speedup as a Geometric Series](https://www.deep-ml.com/math-problems/65) | medium | 2026-10-19 | [solution](math/0065-speculative-speedup-as-a-geometric-series) |
 | [Taylor Expansions and Local Quadratic Models](https://www.deep-ml.com/math-problems/37) | medium | 2026-09-29 | [solution](math/0037-taylor-expansions-and-local-quadratic-models) |
 | [The Four Fundamental Subspaces](https://www.deep-ml.com/math-problems/46) | medium | 2026-11-02 | [solution](math/0046-the-four-fundamental-subspaces) |
