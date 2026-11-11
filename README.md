@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**228** solved · 202 problems · 9 labs · 17 math
+**229** solved · 202 problems · 9 labs · 18 math
 
 ![Coverage](./coverage.svg)
 
@@ -243,6 +243,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-11-02 | [solution](math/0034-least-squares-and-the-normal-equations) |
 | [Online Softmax: Running Max and Correction](https://www.deep-ml.com/math-problems/66) | medium | 2026-10-19 | [solution](math/0066-online-softmax-running-max-and-correction) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-09-29 | [solution](math/0006-optimization-convexity-and-critical-points) |
+| [Receptive Fields: Stacked 3x3 Filters, Strides and Dilation](https://www.deep-ml.com/math-problems/476) | medium | 2026-11-11 | [solution](math/0476-receptive-fields-stacked-3x3-filters-strides-and-dilation) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-09-29 | [solution](math/0031-regularization-and-generalization) |
 | [Roofline: Time is the Max of Bytes/BW and FLOPs/Peak](https://www.deep-ml.com/math-problems/64) | medium | 2026-10-19 | [solution](math/0064-roofline-time-is-the-max-of-bytes-bw-and-flops-peak) |
 | [Speculative Speedup as a Geometric Series](https://www.deep-ml.com/math-problems/65) | medium | 2026-10-19 | [solution](math/0065-speculative-speedup-as-a-geometric-series) |
