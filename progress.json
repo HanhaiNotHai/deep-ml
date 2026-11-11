@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T08:57:16.176Z",
+  "generated_at": "2026-11-11T09:35:49.677Z",
   "items": {
     "problem:169": {
       "kind": "problem",
@@ -2941,6 +2941,17 @@
       "path": "math/0476-receptive-fields-stacked-3x3-filters-strides-and-dilation",
       "first_solved_at": "2026-11-11T08:57:14.576Z",
       "last_pushed_at": "2026-11-11T08:57:14.576Z"
+    },
+    "math:133": {
+      "kind": "math",
+      "id": "133",
+      "title": "Attention as a Soft Dictionary Lookup",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/133",
+      "path": "math/0133-attention-as-a-soft-dictionary-lookup",
+      "first_solved_at": "2026-11-11T09:35:48.444Z",
+      "last_pushed_at": "2026-11-11T09:35:48.444Z"
     }
   }
 }
